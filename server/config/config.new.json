@@ -1,0 +1,11 @@
+{
+  "SERVER": {
+    "PORT": 80
+  },
+  "DATABASE": {
+    "USER": "",
+    "PASS": "",
+    "HOST": "",
+    "SECRET": ""
+  }
+}
